@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Jayyy-01 👋
+
+🎓 Final year BTech student in Electronics and Communication Engineering  
+💻 Coding enthusiast and passionate about evolving tech
+
+---
+
+**Languages & Tools:**  
+C, SQL, Python, NumPy, Pandas  
+HTML, CSS, Bootstrap, Basic Django, Basic JavaScript
+
+---
+
+**Interests:**  
+- Reading books  
+- Coding new things  
+- Always eager to learn about emerging tech
+
+---
+
+*Stay tuned for upcoming projects!*
 
 <!--
-**Jayyy-01/Jayyy-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Minimal profile, add more links or highlights as you grow! ✨
 -->
