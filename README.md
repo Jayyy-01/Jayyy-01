@@ -61,7 +61,8 @@
 ### 📌 Let's Connect
 
 Feel free to explore my repositories and reach out if you're interested in collaboration or tech talk!
-🌐 *More updates & projects coming soon...*
+
+*More updates & projects coming soon...*
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
