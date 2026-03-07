@@ -22,6 +22,7 @@
 -Implemented database operations (add, update, delete, search) for efficient storage and retrieval of book and user details.
 -Designed features to track book availability, borrowing history, and maintain organized library records.
 **Tech Stack:** Python, Django, SQL, HTML, Postman, Pycharm
+
 **Repository:** https://github.com/Jayyy-01/library-management-system
 
 **💰 Expense Tracking System**
