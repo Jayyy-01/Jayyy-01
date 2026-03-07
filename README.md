@@ -15,7 +15,7 @@
 **Tools & Platforms:** GitHub, VS Code, Pycharm, MATLAB
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**## 🚀 Projects**
+**🚀 Projects**
 
 **📚 Library Management System**
 -Developed a system to manage books, users, and issue/return transactions, improving library record management.
@@ -29,6 +29,7 @@
 -Implemented CRUD operations with database integration to add, update, delete, and view expense records.
 -Added functionality to categorize expenses and monitor spending patterns for better budget management.
 **Tech Stack:** Python, FastAPI, SQL, HTML, Pycharm
+
 **Repository:** https://github.com/Jayyy-01/expense-tracker
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
