@@ -1,6 +1,6 @@
 # Hi there, I'm Jayyy-01 👋
 
-🎓 Final Year B. Tech Student in **Electronics and Communication Engineering**
+🎓 Final Year B. Tech Student in **Electronics and Communication Engineering** |
 💡 Tech Enthusiast | 📈 Lifelong Learner | 💻 Aspiring Developer
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
