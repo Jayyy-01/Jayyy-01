@@ -9,9 +9,9 @@
 
 **Programming:** C, Python, SQL
 **Data Handling:** NumPy, Pandas
-**Web Development:** HTML, CSS, Bootstrap, JavaScript (Basic), Django (Basic)
-**Database:** MySQL
-**Tools & Platforms:** GitHub, VS Code, Pycharm
+**Web Development:** HTML, CSS, Bootstrap, JavaScript (Basic), Django
+**Database:** MySQL, MongoDB
+**Tools & Platforms:** GitHub, VS Code, Pycharm, MATLAB
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 📚 Interests
