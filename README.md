@@ -1,69 +1,21 @@
-# Hi there, I'm Jayyy-01 👋
+# 💫 About Me:
+Building full-stack web apps with FastAPI & Django | Designing scalable REST APIs for real-world use cases<br>Open-source Python projects, API development, or full-stack apps with fellow SDEs that solve real-world problems<br>Landing my first SDE role and contributing to impactful Python full-stack or backend projects<br>System Design, Cloud basics (AWS/GCP), and advanced SQL optimizationPython, FastAPI, Django, REST API design, MySQL, JWT Auth or full-stack web development with Python<br>I'm an ECE student who fell in love with Python full-stack dev — built an award-winning Arduino train braking system and also play music in my free time 
 
-🎓 Final Year B. Tech Student in **Electronics and Communication Engineering** |
-💡 Tech Enthusiast | 📈 Lifelong Learner | 💻 Aspiring Developer
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jayasree-p07) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pjayasree543@gmail.com) 
 
-💻 Tech Stack & Tools
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Jayyy-01&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Jayyy-01&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Jayyy-01&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-**Programming:** C, Python, SQL
-**Backend:** Django, FastAPI
-**Data Handling:** NumPy, Pandas
-**Web Development:** HTML, CSS, Bootstrap, JavaScript (Basic)
-**Database:** MySQL, MongoDB
-**Tools & Platforms:** GitHub, VS Code, Pycharm, MATLAB
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Jayyy-01&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-**🚀 Projects**
+---
+[![](https://komarev.com/ghpvc/?username=Jayyy-01&icon=0&color=0)](https://visitcount.itsvg.in)
 
-**📚 Library Management System**
--Developed a system to manage books, users, and issue/return transactions, improving library record management.
--Implemented database operations (add, update, delete, search) for efficient storage and retrieval of book and user details.
--Designed features to track book availability, borrowing history, and maintain organized library records.
-**Tech Stack:** Python, Django, SQL, HTML, Postman, Pycharm
-
-**Repository:** https://github.com/Jayyy-01/library-management-system
-
-**💰 Expense Tracking System**
--Built an application to record and manage daily expenses, helping users track their spending.
--Implemented CRUD operations with database integration to add, update, delete, and view expense records.
--Added functionality to categorize expenses and monitor spending patterns for better budget management.
-**Tech Stack:** Python, FastAPI, SQL, HTML, Pycharm
-
-**Repository:** https://github.com/Jayyy-01/expense-tracker
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-📚 Interests
-
-📖 Exploring fiction and tech books
-💡 Building simple to intermediate-level projects
-🚀 Always curious about **emerging technologies**, especially in AI, IoT, and embedded systems
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-🌟 Highlights
-
-* Team Lead - **Smart India Hackathon (Top 5 Internal Selection)**
-* Hands-on with **Arduino Projects**
-* Keen interest in **Software Development** and **Embedded Systems**  
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-🚀 Currently Learning
-
-* React.js
-* Advanced JavaScript
-* Core Java
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-### 📌 Let's Connect
-
-Feel free to explore my repositories and reach out if you're interested in collaboration or tech talk!
-
-*More updates & projects coming soon...*
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-*Minimal now — evolving soon. Stay tuned!* ✨
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
