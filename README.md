@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 Building full-stack web apps with FastAPI & Django | Designing scalable REST APIs for real-world use cases<br>Open-source Python projects, API development, or full-stack apps with fellow SDEs that solve real-world problems<br>Landing my first SDE role and contributing to impactful Python full-stack or backend projects<br>System Design, Cloud basics (AWS/GCP), and advanced SQL optimizationPython, FastAPI, Django, REST API design, MySQL, JWT Auth or full-stack web development with Python<br>I'm an ECE student who fell in love with Python full-stack dev — built an award-winning Arduino train braking system and also play music in my free time 
 
 
